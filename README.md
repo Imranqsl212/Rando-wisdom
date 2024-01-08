@@ -19,7 +19,7 @@
 You can easily install `Rando-wisdom` using `pip`:
 
 ```shell
-pip install pip install rando-wisdom
+pip install rando-wisdom
 ```
 
 ## Basic Usage
