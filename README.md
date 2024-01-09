@@ -1,15 +1,15 @@
 # Rando-wisdom (Creative library)
 
-`Rando-wisdom` is a versatile Python library designed to inject a dose of variety and entertainment into your projects. This all-in-one library offers functionalities to generate random content, ensuring a delightful and engaging experience for users.
+`Rando-wisdom` is a versatile Python library designed to inject a dose of variety and entertainment into your projects. This all-in-one library offers functionalities to generate random content, ensuring a delightful and engaging experience for users. It uses different APIs to generate random content. If you are lazy or having problem with generating something creative, this library is for you!
 **Table of Contents:**
 
 1. [Installation](#installation)
 2. [Basic Usage](#basic-usage)
-   - [1. Generates random advice](#1-generating-advice)
-   - [2. Generates jokes](#2-generates-joke-or-jokes)
-   - [3. Produces a quote](#3-produce-quote)
-   - [4. Generates a useless fact](#4-generating-useless-fact)
-   - [5. Generates full user info](#5-full-user-info-generating)
+   - [1. Generates random advice](#1-generating-random-advice)
+   - [2. Generates random jokes](#2-generates-random-joke-or-jokes)
+   - [3. Produces a random quote](#3-produce-random-quote)
+   - [4. Generates a random useless fact](#4-generating-random-useless-fact)
+   - [5. Generates fully random user info](#5-fully-random-user-info-generating)
 3. [License](#license)
 4. [Author](#author)
 5. [Links](#links)
@@ -24,7 +24,7 @@ pip install rando-wisdom
 
 ## Basic Usage
 
-### 1. Generating advice
+### 1. Generating random advice
 
 Access a curated collection of inspiring and thought-provoking quotes to add wisdom and motivation to your applications.
 
@@ -39,7 +39,7 @@ print(advice['advice'])
 #Example output: Once you find a really good friend don't do anything that could mess up your friendship.
 ```
 
-### 2. Generates joke or jokes
+### 2. Generates random joke or jokes
 
 Bring humor to your projects with a vast array of jokes covering various categories, guaranteed to bring a smile to users' faces.
 
@@ -74,7 +74,7 @@ print_jokes(result)
 
 ```
 
-### 3. Produce quote
+### 3. Produce random quote
 
 `Rando-wisdom` can produce quote, here is example how to do it.
 
@@ -109,7 +109,7 @@ else:
 #Date Modified: 2023-04-14
 ```
 
-### 4. Generating useless fact
+### 4. Generating random useless fact
 
 Infuse curiosity with useless yet fascinating facts that spark interest and trivia enthusiasts.
 
@@ -126,7 +126,7 @@ if random_fact:
 #Example output: The most common name in world is Mohammed.
 ```
 
-### 5. Full user info generating
+### 5. Fully random user info generating
 
 Generate random user profiles with diverse attributes, ideal for testing or creating realistic mock scenarios in your applications.
 

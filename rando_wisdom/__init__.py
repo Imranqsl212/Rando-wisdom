@@ -6,5 +6,5 @@ from .get_random_user_info import get_random_user
 
 
 __author__ = 'Imranqsl212'
-__version__ = "1.0.1"
+__version__ = "1.0.4"
 __email__ = "zakirovimran333@gmail.com"

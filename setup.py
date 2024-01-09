@@ -5,10 +5,10 @@ with open("README.md", "r") as f:
 
 setup(
     name="rando_wisdom",
-    version="1.0.1",
+    version="1.0.4",
     author="Imranqsl212",
     author_email="zakirovimran333@gmail.com",
-    description="Rando_wisdom is a versatile Python library designed to inject a dose of variety and entertainment into your projects. This all-in-one library offers functionalities to generate random content, ensuring a delightful and engaging experience for users.",
+    description="Rando-wisdom is a versatile Python library designed to inject a dose of variety and entertainment into your projects. This all-in-one library offers functionalities to generate random content, ensuring a delightful and engaging experience for users.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Imranqsl212/rando_wisdom",
